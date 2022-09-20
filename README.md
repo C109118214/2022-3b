@@ -13,6 +13,6 @@
 - [x] done
 
 ```python
-s = "Python Syntax Highlighting"
+s = "Python Poopoo Highlighting"
 print(s)
 ```
