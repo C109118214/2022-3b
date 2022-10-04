@@ -1,27 +1,35 @@
 # 2022-3B C109118214
-**Paragraph**
->Chapter 1
->>1-1
----
->Chapter 2
->>2-1
->>
->>2-2
----
-**Reverse Context**
-* 1 st
-* 2 nd
-* 3 rd
+mphasis, aka italics, with asterisks or underscores.
+
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
+
+Combined emphasis with **asterisks and *underscores***.
+
+Strikethrough uses two tildes. ~Scratch this.~
+
+1. First ordered list item.
+
+2. Another item
+   >*Unordered sub-list.
+   
+3. Actual numbers don't matter,just that it's a number
+  > Ordered sub-list
+  >> 2nd
+  
+4. And another item.
+  >>* note1
+  >>* note2
+  >>* note3
 ---
 **Table**
 |**Tables** |**Are**  |**Cool** |
 |:------|:------:|------:|           
 |col 3 is|right-aligned|$1600|     
 |col 2 is|centered|$12|               
-|zebra stripes|are|$1|                
+|zebra stripes|are neat|$1|                
 
 |**Markdown** |**Less**  |**Pretty** |
-|:------|:------:|------:|           
+|:------|:------|:------|           
 |*Still*|`renders`|**nicely**|     
 |1 | 2 | 3 |               
 
@@ -31,9 +39,9 @@
 
 ---
 **Check box**
--  [ ] 1 st
--  [ ] 2 nd
--  [x] 3 rd
+-  [ ] todo list
+-  [ ] 2nd things
+-  [x] 3rd things
 ---
 **Python Code**
 ```python
