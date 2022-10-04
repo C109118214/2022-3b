@@ -13,6 +13,7 @@ gantt
 ```
 ![甘特圖](未命名.png "甘特圖")
 ![PERT/CPM](PERT&CPM.png "PERT/CPM")
+關鍵路徑:編號1->編號2->編號4->編號6->編號9->編號11
 ```graphviz
 digraph {
 	node[shape=record];
