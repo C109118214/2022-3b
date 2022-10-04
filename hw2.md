@@ -12,6 +12,7 @@ gantt
     anther task      : 24d
 ```
 ![甘特圖](未命名.png "甘特圖")
+![PERT/CPM](PERT&CPM.png "PERT/CPM")
 ```graphviz
 digraph {
 	node[shape=record];
